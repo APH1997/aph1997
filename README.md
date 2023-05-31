@@ -1,6 +1,6 @@
 ### Welcome to my Dojo
 
-##JavaScript/Express, Python/Flask, React, Redux, SQL, SQLite, Sequelize, SQLAlchemy
+## JavaScript/Express, Python/Flask, React, Redux, SQL, SQLite, Sequelize, SQLAlchemy
 
 
 
