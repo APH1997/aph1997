@@ -1,4 +1,5 @@
 ### Welcome to my Dojo
+### :hammer_and_wrench: Languages and Tools :
 
 ## JavaScript/Express, Python/Flask, React, Redux, SQL, SQLite, Sequelize, SQLAlchemy
 
@@ -7,6 +8,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aph1997&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 
 
 <!--
