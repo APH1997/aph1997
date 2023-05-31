@@ -1,8 +1,11 @@
 ### Welcome to my Dojo
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aph1997&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40"   height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS" alt="JS" wdith="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PY" alt="PY" wdith="40" height="40"/>&nbsp;
