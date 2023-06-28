@@ -1,7 +1,7 @@
 ### Welcome to my Dojo
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aph1997&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 
-
+Hello friends! My name is Andre, and I 
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
