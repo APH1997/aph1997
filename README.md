@@ -1,9 +1,12 @@
-### Welcome to my Dojo
+## A man walks into a bar...
+### ... Ouch! haha.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aph1997&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 
-Hello friends! My name is Andre, and I 
+### Hello friends! 
+My name is Andre, and I am a budding software engineer. I love coding, digging/filling in holes at the beach, rollerblading, and poetry. I've developed three total fullstack websites during my coding bootcamp (App Academy): two solo projects (GroupTogether and HighrMe) and one team project (AudioDome). I am very excited to step foot into the software development industry and continue my coding journey; I find great fulfillment in the challenges of software programming, and I am delighted to learn from- and collaborate with- other passionate people.
 
-### :hammer_and_wrench: Languages and Tools :
+
+### :hammer_and_wrench: My (Growing) Toolbox :
 <div>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -28,7 +31,7 @@ Hello friends! My name is Andre, and I
 </div>
 
 
-
+# Thanks for checking out my GitHub!
 ## Connect with me!
 <div id="badges">
   <a href="https://www.linkedin.com/in/andre-hristu/">
