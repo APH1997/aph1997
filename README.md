@@ -3,7 +3,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aph1997&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 
 ### Hello friends! 
-My name is Andre, and I am a budding software engineer. I love coding, digging/filling in holes at the beach, rollerblading, and poetry. I've developed three total fullstack websites during my coding bootcamp (App Academy): two solo projects (GroupTogether and HighrMe) and one team project (AudioDome). I am very excited to step foot into the industry and continue my coding journey; I find great fulfillment in the challenges of software development, and I am delighted to learn from and collaborate with other passionate people.
+My name is Andre, and I am a budding software engineer. I love coding, digging/filling in holes at the beach, rollerblading, and poetry. I've developed three total fullstack websites during my coding bootcamp (App Academy): two solo projects (GroupTogether and HighrMe) and one team project (AudioDome). 
+What I love most about software development, is the tinkering and tooling -- finding new technologies that I can leverage in software solutions to my everyday problems. Of Course, this often means I end up with a wild meddley of open documentation, IDE windows, and terminals, but every tinkerer's workshop gets a little messy from time to time.
 
 
 ### :hammer_and_wrench: My (Growing) Toolbox :
